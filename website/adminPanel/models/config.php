@@ -3,7 +3,7 @@ include_once('php/connection.php');
 include_once('php/functions.php');
 
 function getRoot(){
-return '/vision/website/adminPanel/';
+return '/AuraVogue/website/adminPanel/';
 }
 
 ?>

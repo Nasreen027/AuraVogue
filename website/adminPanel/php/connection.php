@@ -1,5 +1,5 @@
 <?php
-$server = 'mysql:host=localhost;dbname=plantnest';
+$server = 'mysql:host=localhost;dbname=auravogue';
 $user = 'root';
 $password = '';
 

@@ -152,7 +152,7 @@ include("./components/sessionHeader.php");
                                     $userID = $user['userID'];
                                 }
                                 ?>
-                                <a href="?checkout=<?php echo $userID ?>">Proceed to checkout</a>
+                                <a href="?checkout.php=<?php echo $userID ?>">Proceed to checkout</a>
                                 <?php
                             }
                             else {

@@ -31,9 +31,7 @@ include("./components/header.php");
             <div class="swiper">
                 <div class="swiper-wrapper">
                     <!-- Slider Item Start -->
-                    <div class="slider-item home-2-slider-style swiper-slide d-flex align-items-center" id="cover"
-                        style="
-                                ">
+                    <div class="slider-item home-2-slider-style swiper-slide d-flex align-items-center" id="cover">
                         <!-- Slider Content Start -->
                         <div class="home-2-slider-content-style-1">
                             <h4 class="home-2-slider-content-style-1__sub-title">
